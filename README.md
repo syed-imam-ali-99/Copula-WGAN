@@ -25,11 +25,12 @@ cd copula-wgan
 source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
 
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ---
 
 ## Results
 ### Distribution Comparisons
 
-![WhatsApp Image 2025-04-21 at 23 11 53](https://github.com/user-attachments/assets/9690deaa-bed2-445a-8f83-bf85f10ff98c)
+![KDE Plot](Results/Distribution.jpeg)
