@@ -18,3 +18,16 @@ The model preserves **feature distributions** and **inter-feature dependencies**
 ```bash
 git clone https://github.com/yourusername/copula-wgan.git
 cd copula-wgan
+
+---
+
+## Create a virtual environment and install dependencies
+python -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+
+pip install -r requirements.txt
+
+---
+
+## Results
