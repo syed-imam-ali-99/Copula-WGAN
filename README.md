@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ![KDE Plot](Results/Distribution.jpeg)
 
-### Correlation
+### Correlation Matrix
 
 ![Correlation](Results/Correlation.jpeg)
 
