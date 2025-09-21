@@ -34,3 +34,21 @@ pip install -r requirements.txt
 ### Distribution Comparisons
 
 ![KDE Plot](Results/Distribution.jpeg)
+
+### Correlation
+
+![Correlation](Results/Correlation.jpeg)
+
+---
+
+## Applications
+
+- Privacy-preserving data sharing
+- Data augmentation for imbalanced datasets
+- Benchmarking ML models on synthetic datasets
+
+
+
+
+
+
